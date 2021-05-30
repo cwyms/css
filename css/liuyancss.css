@@ -1,0 +1,390 @@
+@charset "utf-8";
+.guanyu {
+	width: 1080px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	background-image: url(file:///E|/caowenyangdeyinyangshi_web/%E6%9C%AA%E6%A0%87%E9%A2%98-1_%E7%94%BB%E6%9D%BF%201.jpg);
+	color: #FFF;
+	background-color: #FFF;
+	height: 1920px;
+	font-family: "华康海报体W12";
+	float: left;
+}
+.guanyu .banquan {
+	height: 150px;
+	width: 1000px;
+	margin-left: 300px;
+	float: left;
+	text-align: center;
+	font-size: 18px;
+	line-height: 20px;
+	font-family: "楷体";
+}
+.guanyu .liuyan {
+	width: 930px;
+	font-family: "楷体";
+	font-size: 0px;
+	line-height: 90px;
+	color: #FFF;
+	height: 20px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 4px;
+	border-left-width: 0px;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.guanyu .idliuyanban {
+	height: 708px;
+	width: 1080px;
+	float: left;
+	background-image: url(file:///E|/caowenyangdeyinyangshi_web/9999999999.png);
+}
+.guanyu .idliuyanban .kuang {
+	height: 700px;
+	width: 1000px;
+	float: left;
+	margin-left: 40px;
+}
+.guanyu .idliuyanban .kuang .liuyanlanmu {
+	height: 200px;
+	width: 500px;
+	text-align: center;
+	font-family: "华康海报体W12";
+	font-size: 150px;
+	color: #000;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+}
+.guanyu .baiguipai {
+	width: 1080px;
+	float: none;
+	font-family: "华康海报体W12";
+	color: #FFF;
+	margin-top: 80px;
+	font-size: 50px;
+	margin-bottom: 0px;
+	height: 85px;
+}
+.guanyu .idliuyanban .kuang .lei form {
+	margin-top: 330px;
+}
+.guanyu .baiguipai .dingge {
+	height: 90px;
+	width: 1080px;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+}
+.guanyu .baiguipai .daohang {
+	height: 344px;
+	width: 173px;
+	background-repeat: no-repeat;
+	color: #000;
+	font-family: "仿宋", "Adobe 楷体 Std R";
+	text-decoration: blink;
+	font-size: 18px;
+	float: left;
+}
+.guanyu .baiguipai .daohang .erweima {
+	height: 110px;
+	width: 110px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(file:///E|/%E5%A4%A7%E4%B8%89%E4%B8%8A%E5%AD%A6%E6%9C%9F/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1/caowenyangdeyinyangshi_web/images/erweima.png);
+}
+.guanyu .baiguipaitese {
+	height: 905px;
+	width: 1000px;
+	border-top-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	transition: all 0s 0s;
+	-ms-transition: all 0s 0s;
+	-o-transition: all 0s 0s;
+	-webkit-transition: all 0s 0s;
+	-moz-transition: all 0s 0s;
+	text-align: right;
+	float: left;
+	padding-left: 0px;
+	background-image: url(file:///E|/caowenyangdeyinyangshi_web/xin1.png);
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.guanyu .baiguipai .dingge .hhhh {
+	height: 50px;
+	width: 900px;
+}
+.guanyu .idliuyanban .kuang .liuyanlanmu #liuyan {
+	height: 250px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.guanyu .idliuyanban .kuang .liuyanlanmu #wenbenquyu {
+	height: 270px;
+	width: 580px;
+}
+
+
+.guanyu .baiguipai .dingge .hhhh a {
+	color: #FFF;
+	text-decoration: blink;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 50px;
+	width: 180px;
+	line-height: 50px;
+	font-family: "楷体";
+	font-size: 26px;
+}
+.guanyu .baiguipai .dingge .hhhh a:hover {
+	color: #F2DE9F;
+	text-decoration: blink;
+	text-align: center;
+	display: block;
+	height: 50px;
+	width: 180px;
+	line-height: 50px;
+	font-family: "华康海报体W12";
+	font-size: 50px;
+}
+body,td,th {
+	color: #FFF;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000;
+}
+.jxms {
+	font-family: "华康海报体W12";
+	float: right;
+	height: 100px;
+	width: 400px;
+	font-size: 40px;
+	line-height: 20px;
+	text-align: right;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 65px;
+	margin-bottom: 15px;
+}
+.xinxibiao {
+	height: 560px;
+	width: 1000px;
+}
+.msysjx {
+	height: 50px;
+	width: 1000px;
+	text-align: center;
+	float: left;
+	padding-right: 0px;
+	margin-top: 140px;
+}
+.xinxibiao {
+	height: 50px;
+	width: 1000px;
+	float: left;
+	margin-top: 140px;
+	font-family: "华康海报体W12";
+	text-align: center;
+}
+.whh {
+	float: left;
+	width: 1000px;
+	height: 55px;
+	text-align: left;
+	margin-top: 80px;
+}
+.whhh {
+	float: left;
+	width: 1000px;
+	height: 55px;
+	margin-top: 50px;
+}
+.choxingshuru {
+	float: left;
+	width: 1000px;
+	height: 58px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.shuju {
+	float: left;
+	width: 450px;
+	text-align: right;
+}
+.shuju1 {
+	float: left;
+	width: 350px;
+	text-align: center;
+}
+.shuju2 {
+	float: left;
+	width: 450px;
+}
+.shujutiancho {
+	float: left;
+	width: 350px;
+	height: 50px;
+	text-align: left;
+	border-bottom-width: 4px;
+	border-bottom-style: double;
+	border-bottom-color: #FFF;
+}
+.shuju3 {
+	text-align: center;
+	float: left;
+	width: 350px;
+}
+.guanyu .baiguipai .baiguipaitese .queding {
+	float: left;
+	width: 1000px;
+	height: 55px;
+	margin-top: 50px;
+}
+.guanyu .baiguipai .baiguipaitese .queding .zy {
+	float: left;
+	width: 450px;
+}
+.guanyu .baiguipai .baiguipaitese .queding .shuju4 {
+	float: left;
+	text-align: center;
+}
+.guanyu .baiguipai .baiguipaitese .choxingshuru .ok {
+	float: left;
+	width: 520px;
+}
+.guanyu .baiguipai .baiguipaitese .choxingshuru .no {
+	float: right;
+	width: 400px;
+	text-align: left;
+	margin-left: 75px;
+}
+.guanyu .baiguipai .baiguipaitese .choxingshuru .ok .anniu {
+	float: right;
+	width: 270px;
+	text-align: center;
+	height: 55px;
+
+
+
+	
+.guanyu .baiguipai .baiguipaitese .choxingshuru .ok .anniu form #aniu {
+	width: 270px;
+	height: 55px;
+}
+btn-style {
+	height: 55px;
+	width: 240px;
+	background-color: #C46039;
+	color: #FFF;
+}
+.guanyu .baiguipai .baiguipaitese .choxingshuru .ok .anniu input {
+	height: 55px;
+	width: 270px;
+	border-radius: 100px;
+	display: block;
+	line-height: 50px;
+	text-align: center;
+	font-size: 42px;
+	color: #333;
+	font-family: "华康海报体W12";
+	
+}
+
+}
+.guanyu .baiguipai .baiguipaitese .choxingshuru .no form #anniu {
+	height: 55px;
+	width: 270px;
+	background-color: #F60;
+	font-family: "华康海报体W12";
+	font-size: 42px;
+	border-radius: 20px;
+}
+.guanyu .baiguipai .baiguipaitese .choxingshuru .ok .anniu form #anniu1 {
+	height: 55px;
+	width: 270px;
+	background-color: #C63;
+	border-radius: 20px;
+	color: 
+}
+.guanyu .baiguipai .baiguipaitese .zs {
+	float: left;
+	height: 100px;
+	width: 1000px;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 15px;
+}
+.guanyu .baiguipai .baiguipaitese .zs .wenzi {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.guanyu .idliuyanban .kuang .zhushi {
+	float: left;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 400px;
+}
+.guanyu .idliuyanban .kuang .zhushi .zhujie {
+	float: left;
+	height: 200px;
+	width: 920px;
+	color: #000;
+	font-size: 25px;
+	font-family: "宋体";
+	margin-left: 50px;
+	margin-top: 5px;
+}
+.guanyu .idliuyanban .kuang .zhushi .zuiho {
+	float: left;
+	width: 1000px;
+	height: 205px;
+}
+.guanyu .idliuyanban .kuang .zhushi .zuiho .tu {
+	float: left;
+	height: 205px;
+	width: 500px;
+}
+.guanyu .idliuyanban .kuang .zhushi .zuiho .tu .youtu {
+	float: left;
+	height: 205px;
+	width: 1000px;
+}
+.guanyu .idliuyanban .kuang .zhushi .zuiho .youtu {
+	float: right;
+	width: 500px;
+}
+.guanyu .idliuyanban .kuang .zhushi .zuiho .youtu {
+	float: right;
+	width: 500px;
+	height: 206px;
+	background-image: url(file:///E|/caowenyangdeyinyangshi_web/%E6%9C%AA%E6%A0%87%E9%A2%98-7.png);
+}
